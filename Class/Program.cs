@@ -19,6 +19,7 @@ namespace Tema1_Producto
 
                 r.Show();
                 p.Show();
+                r.Show();
                 
                
 
