@@ -19,9 +19,12 @@ namespace Tema1_Producto
 
                 r.Show();
                 p.Show();
+                
                
 
             }
+            //hjghjghj
+            //yjyjty
             catch (OutOfMemoryException)
             {
                 Console.WriteLine("Out Of Memory, please use a number in the range >0 and <1000000\n");
