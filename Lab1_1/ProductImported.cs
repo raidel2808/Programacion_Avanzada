@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab1_1
 {
-    class ProductImported : Product
+   public class ProductImported : Product
     {
         protected float tax;
 
-        public ProductImported(string pDescription = "Default", float pPurchase = 0, float pTax = 0)
-            : base(pDescription, pPurchase)
+        public ProductImported(string pDescription = "Default", int id = 1234, float pPurchase = 0, float pTax = 0)
+            : base(pDescription,id,pPurchase)
         {
 
             tax = pTax;

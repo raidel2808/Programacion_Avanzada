@@ -6,23 +6,22 @@ using System.Threading.Tasks;
 
 namespace Lab1_1
 {
-    public class Product
+    public abstract class Product
     {
-        private string description;
+        protected string description;
+        protected int ID;
         protected float price_purchase;
         protected float price_sale;
+        
 
-        public Product(string pDescription = "Default", float pPurchase = 0)
+        public Product(string pDescription = "Default",int id=1234, float pPurchase = 0)
         {
 
 
             description = pDescription;
+            ID = id;
             price_purchase = pPurchase;
             CalculPrice();
-
-
-
-
         }
 
         public string Description
@@ -31,6 +30,11 @@ namespace Lab1_1
             set { description = value; }
         }
 
+        public int id
+        {
+            get { return ID; }
+            set { ID = value; }
+        }
         public float PricePurchase
         {
             get { return price_purchase; }

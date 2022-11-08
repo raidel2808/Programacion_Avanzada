@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Lab1_1
 {
-    class ProductProduced : ProductImported
+   public class ProductProduced : ProductImported
     {
         public float cost;
 
-        public ProductProduced(string pDescription = "Default",
+        public ProductProduced(string pDescription = "Default", int id = 1234,
             float pPurchase = 0, float pTax = 0, float pCost = 0)
-            : base(pDescription, pPurchase, pTax)
+            : base(pDescription, id, pPurchase, pTax)
         {
             cost = pCost;
             CalculPrice();
