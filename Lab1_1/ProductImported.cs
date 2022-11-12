@@ -8,7 +8,7 @@ namespace Lab1_1
 {
    public class ProductImported : Product
     {
-        protected float tax;
+        public float tax;
 
         public ProductImported(string pDescription = "Default", int id = 1234, float pPurchase = 0, float pTax = 0)
             : base(pDescription,id,pPurchase)

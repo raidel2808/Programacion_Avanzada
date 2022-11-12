@@ -10,7 +10,7 @@ namespace Lab1_1
     {
         protected string description;
         protected int ID;
-        protected float price_purchase;
+        public float price_purchase;
         protected float price_sale;
         
 
