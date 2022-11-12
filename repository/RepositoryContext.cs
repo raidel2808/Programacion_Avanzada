@@ -73,7 +73,7 @@ namespace repository
             var optionsBuilder = new DbContextOptionsBuilder<RepositoryContext>();
             try
             {
-                var connectionString = @"Data Source=LAPTOP-DOFK9MS3\SQLDEVELOPMENT;AttachDBFilename=D:\cujae\Programación Avanzada\Código\DB\HumanResourcesDB.mdf;Initial Catalog=HumanResourcesDB;User ID=sa;Password=qwerty";
+                var connectionString = @"Data Source=LAPTOP-DOFK9MS3\SQLDEVELPMENT;AttachDBFilename=D:\Cujae\3er año\2do Semestre\Programación Avnazada\Código\HumanResourcesDB.mdf;Initial Catalog=HumanResourcesDB;User ID=sa;Password=12345678";
                 optionsBuilder.UseSqlServer(connectionString);
             }
             catch (Exception)

@@ -22,6 +22,10 @@ namespace Lab1_1
             ID = id;
             price_purchase = pPurchase;
             CalculPrice();
+
+
+
+
         }
 
         public string Description

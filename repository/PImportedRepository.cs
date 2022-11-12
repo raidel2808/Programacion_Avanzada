@@ -9,9 +9,9 @@ namespace repository
 {
     public partial class DBRepository : IPImportedRepository
     {
-        public ProductImported CreatePImported(string description, int id, float price_sale, float tax)
+        public ProductImported CreatePImported(string description, int id, float price_purchase, float tax)
         {
-            var pimported = new ProductImported(description, id, price_sale,tax);
+            var pimported = new ProductImported(description, id, price_purchase,tax);
             Add(pimported);
             return pimported;
         }

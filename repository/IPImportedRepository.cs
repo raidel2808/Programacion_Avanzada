@@ -9,7 +9,7 @@ namespace repository
 {
    public interface IPImportedRepository: IRepository
     {
-        ProductImported CreatePImported(string description, int id, float price_sale, float tax);
+        ProductImported CreatePImported(string description, int id, float price_purchase, float tax);
         
         void UpdatePImported(ProductImported pimported);
 
