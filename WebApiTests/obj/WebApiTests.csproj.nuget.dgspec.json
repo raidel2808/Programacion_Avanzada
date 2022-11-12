@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApiTests\\WebApiTests.csproj": {}
   },
   "projects": {
     "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\Lab1_1\\Lab1_1.csproj": {
@@ -43,6 +43,86 @@
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
               "version": "[5.2.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\RepositoryTest\\RepositoryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\RepositoryTest\\RepositoryTest.csproj",
+        "projectName": "RepositoryTest",
+        "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\RepositoryTest\\RepositoryTest.csproj",
+        "packagesPath": "C:\\Users\\raide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\RepositoryTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\repository\\repository.csproj": {
+                "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\repository\\repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -121,6 +201,95 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApiTests\\WebApiTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApiTests\\WebApiTests.csproj",
+        "projectName": "WebApiTests",
+        "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApiTests\\WebApiTests.csproj",
+        "packagesPath": "C:\\Users\\raide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApiTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\Lab1_1\\Lab1_1.csproj": {
+                "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\Lab1_1\\Lab1_1.csproj"
+              },
+              "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\RepositoryTest\\RepositoryTest.csproj": {
+                "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\RepositoryTest\\RepositoryTest.csproj"
+              },
+              "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\repository\\repository.csproj": {
+                "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\repository\\repository.csproj"
+              },
+              "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApi\\WebApi.csproj": {
+                "projectPath": "C:\\Users\\raide\\source\\repos\\Programacion_Avanzada\\WebApi\\WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [

@@ -16,7 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Lab1_1\Lab1_1.csproj" />
+    <ProjectReference Include="..\RepositoryTest\RepositoryTest.csproj" />
     <ProjectReference Include="..\repository\repository.csproj" />
+    <ProjectReference Include="..\WebApi\WebApi.csproj" />
   </ItemGroup>
 
 </Project>
