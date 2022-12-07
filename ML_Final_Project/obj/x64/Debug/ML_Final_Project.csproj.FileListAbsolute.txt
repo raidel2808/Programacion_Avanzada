@@ -1,0 +1,66 @@
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Data\iris.data
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\ML_Final_Project.exe.config
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\ML_Final_Project.exe
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\ML_Final_Project.pdb
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\LdaNative.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\CpuMathNative.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Buffers.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.CodeDom.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Memory.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.AssemblyReference.cache
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.exe.config
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.CopyComplete
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.exe
+C:\Users\raide\source\repos\Programacion_Avanzada\ML_Final_Project\obj\x64\Debug\ML_Final_Project.pdb
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Data\iris.data
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\ML_Final_Project.exe.config
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\ML_Final_Project.exe
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\ML_Final_Project.pdb
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\LdaNative.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.Core.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.Data.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.PCA.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.Transforms.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\CpuMathNative.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Microsoft.ML.DataView.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Buffers.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.CodeDom.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Memory.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Threading.Channels.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.AssemblyReference.cache
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.SuggestedBindingRedirects.cache
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.exe.config
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.CoreCompileInputs.cache
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.csproj.CopyComplete
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.exe
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\obj\x64\Debug\ML_Final_Project.pdb
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Dbscan.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\Dbscan.RBush.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\RBush.dll
+D:\Cujae\3er año\2do Semestre\Programación Avnazada\Proyectos\ML_Final_Project\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
